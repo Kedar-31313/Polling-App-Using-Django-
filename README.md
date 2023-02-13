@@ -2,7 +2,7 @@
 Pycham Polling Project
 
 
-Open this files in cmd and type this commands:
+Open all this files in cmd and type this commands:
 
 python manage.py makemigrations
 python manage.py migrate
